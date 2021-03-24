@@ -1,11 +1,13 @@
-<center>
-    <h1>Algorytm Euklidesa</h1>
+<h1 align="center">
+    Algorytm Euklidesa
+</h1>
+<p align="center">
     <a href=https://github.com/2C-VLO/AlgorytmEuklidesa/blob/main/exercises/1.cpp>Ćwiczenie 1</a>
     •
     <a href=https://github.com/2C-VLO/AlgorytmEuklidesa/blob/main/exercises/2.cpp>Ćwiczenie 2</a>
     •
     <a href=https://github.com/2C-VLO/AlgorytmEuklidesa/blob/main/exercises/3.png>Ćwiczenie 3</a>
-</center>
+</p>
 
 ---
 
@@ -31,8 +33,6 @@
 
 ---
 
-<center>
-    Autorzy:
-    <a href=https://github.com/vv1ktor>Wiktor Gała</a>,
-    <a href=https://github.com/diffiii>Jan Marek</a>
-</center>
+Autorzy:
+<a href=https://github.com/vv1ktor>Wiktor Gała</a>,
+<a href=https://github.com/diffiii>Jan Marek</a>
