@@ -9,6 +9,8 @@
     <a href=https://github.com/2C-VLO/AlgorytmEuklidesa/blob/main/exercises/3.png>Ćwiczenie 3</a>
 </p>
 
+W razie jakichkolwiek problemów lub pytań zachęcamy do napisania o tym w sekcji <a href=https://github.com/2C-VLO/AlgorytmEuklidesa/issues>Issues</a> <img src=https://images-ext-2.discordapp.net/external/18-0P1HrYmprJPwlW2YvK5jv8APhxfujyucugS_zirA/https/cdn.frankerfacez.com/emoticon/218530/4 width=20></img>.
+
 ---
 
 ![1](https://github.com/2C-VLO/AlgorytmEuklidesa/blob/main/slides/1.jpg)
