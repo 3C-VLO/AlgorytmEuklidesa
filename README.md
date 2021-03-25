@@ -27,7 +27,7 @@
 ![12](https://github.com/2C-VLO/AlgorytmEuklidesa/blob/main/slides/12.jpg)
 ![13](https://github.com/2C-VLO/AlgorytmEuklidesa/blob/main/slides/13.jpg)
 ![14](https://github.com/2C-VLO/AlgorytmEuklidesa/blob/main/slides/14.jpg)
-![15](https://github.com/2C-VLO/AlgorytmEuklidesa/blob/main/slides/15.jpg)
+![15](https://github.com/2C-VLO/AlgorytmEuklidesa/blob/main/slides/15.jpeg)
 ![16](https://github.com/2C-VLO/AlgorytmEuklidesa/blob/main/slides/16.jpg)
 ![17](https://github.com/2C-VLO/AlgorytmEuklidesa/blob/main/slides/17.jpg)
 ![18](https://github.com/2C-VLO/AlgorytmEuklidesa/blob/main/slides/18.jpg)
